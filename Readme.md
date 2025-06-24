@@ -1,1 +1,1 @@
-![LeetCode Stats](https://leetcard.jacoblin.cool/Soumyajeet916?theme=nord&font=Noto%20Sans%20Sundanese&ext=contest)
+![LeetCode Stats](https://leetcard.jacoblin.cool/Soumyajeet916?theme=chartreuse&font=Noto%20Sans%20Sundanese&ext=contest)
