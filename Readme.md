@@ -1,3 +1,2 @@
 ![LeetCode Stats](https://leetcard.jacoblin.cool/Soumyajeet916?theme=chartreuse&font=Noto%20Sans%20Sundanese&ext=contest)
-![Typing fast](3AyY.gif)
-<img src="3AyY.gif" width="400"/>
+<img src="3AyY.gif" width="800"/>
