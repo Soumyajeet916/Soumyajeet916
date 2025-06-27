@@ -1,7 +1,5 @@
 # 👋 Hi there, I'm Soumyajeet Das
 
-<img src="https://leetcard.jacoblin.cool/Soumyajeet916?theme=chartreuse&font=Noto%20Sans%20Sundanese&ext=contest" width="800"/>
-
 <img src="3AyY.gif" width="800"/>
 
 ## 🎓 Education
@@ -33,6 +31,14 @@
 - 🧠 Git & GitHub
 - 📝 VS Code
 - 📮 Postman
+- ☁️ Cloudinary
+- 💻 Linux CLI
+
+## 🧠 LeetCode Stats
+
+![LeetCode Stats](https://leetcard.jacoblin.cool/Soumyajeet916?theme=chartreuse&font=Noto%20Sans%20Sundanese&ext=contest)
+
+---
 
 ## 🔗 Connect with Me
 
@@ -46,4 +52,3 @@
 ---
 
 📫 **Feel free to connect or check out my projects!**
-
