@@ -22,12 +22,16 @@
 - Vite
 - Next.js
 
+ ### 💻 Operating Systems
+- Windows
+- macOS
+- Linux
+
 ### 🛠 Tools & Platforms
 - Git & GitHub
 - VS Code
 - Postman
-- Cloudinary
-- Linux CLI
+
 
 ---
 
