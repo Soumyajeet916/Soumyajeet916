@@ -31,8 +31,6 @@
 - 🧠 Git & GitHub
 - 📝 VS Code
 - 📮 Postman
-- ☁️ Cloudinary
-- 💻 Linux CLI
 
 ## 🧠 LeetCode Stats
 
