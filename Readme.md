@@ -18,7 +18,6 @@
 - ⚛️ React.js
 - 🛠️ Node.js, Express.js
 - 🍃 MongoDB, Mongoose
-- 🔗 RESTful APIs
 - ⚡ Vite
 - 🔄 Next.js
 
