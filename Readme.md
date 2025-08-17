@@ -44,7 +44,7 @@
 - 🔗 [💼 LinkedIn](https://www.linkedin.com/in/soumyajeet-das-08140b250/)  
 - 🐦 [X (Twitter)](https://x.com/Soumyajeet_dass)  
 - 📸 [Instagram](https://www.instagram.com/soumyajeet__das/)  
-- ✉️ [soumyajeetdas.sd@gamil.com](mailto:soumyajeetdas.sd@gamil.com)
+- ✉️ [soumyajeetdas.sd@gamil.com](mailto:soumyajeetdas.sd@gmail.com)
 
 ---
 
