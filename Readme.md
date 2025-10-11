@@ -13,6 +13,7 @@
 ### 💻 Programming Languages
 - ⚙️ JavaScript (ES6+)
 - ☕ Java
+- Python
 
 ### 🌐 Web Development
 - ⚛️ React.js
