@@ -1,7 +1,7 @@
 # 👋 Hi there, I'm Soumyajeet Das
 
 <img src="3AyY.gif" width="800"/>
-<img src="cry.gif" width="800" height ="400"/>
+<img src="cry.gif" width="800" height ="600"/>
 
 ## 🎓 Education
 
