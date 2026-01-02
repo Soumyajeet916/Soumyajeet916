@@ -15,12 +15,12 @@
 - ⚙️ JavaScript (ES6+)
 - ☕ Java
 - Python
+- SQL
 
 ### 🌐 Web Development
 - ⚛️ React.js
 - 🛠️ Node.js, Express.js
 - 🍃 MongoDB, Mongoose
-- ⚡ Vite
 - 🔄 Next.js
 
 ### 🖥️ Operating Systems
@@ -42,7 +42,7 @@
 ## 🔗 Connect with Me
 
 - 📄 [📁 Resume (Google Drive)](https://drive.google.com/file/d/1Bs90wwKjMEZLFDN_3xw9NgMlZEnh0_vb/view?usp=sharing)  
-- 🌐 💼 Portfolio Website: (https://sd-portfolio-hggk.onrender.com/)
+- 🌐 💼 [Portfolio Website:] (https://sd-portfolio-hggk.onrender.com/)
 - 🔗 [💼 LinkedIn](https://www.linkedin.com/in/soumyajeet-das-08140b250/)  
 - 🐦 [X (Twitter)](https://x.com/Soumyajeet_dass)  
 - 📸 [Instagram](https://www.instagram.com/soumyajeet__das/)  
